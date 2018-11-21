@@ -1,7 +1,7 @@
 import React,  {Component} from 'react'
-import Header from '../components/Header'
-import Menu from '../components/Menu'
-import Footer from '../components/Footer'
+import Header from '../../components/Global/Header'
+import Menu from '../../components/Global/Menu'
+import Footer from '../../components/Global/Footer'
 
 class HomePage extends Component{
     constructor(){

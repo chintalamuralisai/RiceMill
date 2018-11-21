@@ -5,8 +5,8 @@ import {
   Route
 } from 'react-router-dom'
 
-import HomePage from './containers/HomePage'
-import NewloadPage from './containers/NewloadPage'
+import HomePage from './containers/Global/HomePage'
+import NewloadPage from './containers/Global/NewloadPage'
 
 class App extends Component {
   render() {

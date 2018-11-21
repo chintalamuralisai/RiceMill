@@ -1,7 +1,7 @@
 import React,  {Component} from 'react'
-import Header from '../components/Header'
-import Menu from '../components/Menu'
-import Newload from '../components/Newload'
+import Header from '../../components/Global/Header'
+import Menu from '../../components/Global/Menu'
+import Newload from '../../components/Global/Newload'
 class NewloadPage extends Component{
     constructor(){
         super();

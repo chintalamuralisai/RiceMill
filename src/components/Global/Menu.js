@@ -49,7 +49,8 @@ class Menu extends Component {
 								id="navbarDropdownMenuLink"
 								data-toggle="dropdown"
 								aria-haspopup="true"
-								aria-expanded="false"								
+                                aria-expanded="false"
+                                role="button"								
 							>
                         Services
                         </a>
